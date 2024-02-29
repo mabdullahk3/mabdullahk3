@@ -1,4 +1,4 @@
-<p align="left">Hi! My name is Abdullah.</p>
+<p align="left">Hi! I'm Abdullah.</p>
 
 ###
 
