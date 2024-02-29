@@ -25,11 +25,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mabdullahk3/count.svg?"  />
-</div>
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mabdullahk3/mabdullahk3/output/snake.svg" alt="Snake animation" />
 
